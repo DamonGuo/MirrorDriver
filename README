@@ -1,0 +1,4 @@
+This was code used for my EE396 project to control 2 xy mirrors to position
+the laser to reflect on a arena field and control the microrobot. The code 
+also has vision control to follow the micorobot and make sure it stays on 
+its path.
